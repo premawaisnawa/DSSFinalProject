@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DaftarCalonKetua"></activity>
+        <activity android:name=".DaftarCalonKetua" />
+        <activity android:name=".TambahCalonKetua"></activity>
     </application>
 
 </manifest>
